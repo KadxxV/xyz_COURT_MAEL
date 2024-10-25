@@ -6,7 +6,6 @@
             <h1>
                 Contribution <small>n°{{ $track->id }}</small>
             </h1>
-
             <dl>
                 <dt>Artiste</dt>
                 <dd>{{ $track->artist }}</dd>
