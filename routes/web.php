@@ -39,4 +39,7 @@ Route::middleware('auth')->group(function () {
     Route::post('/profile', [ProfileController::class, 'update'])->name('app.profile.update');
 
     Route::fallback(fn () => abort(404));
+
+
+    
 });

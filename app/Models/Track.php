@@ -21,6 +21,7 @@ class Track extends Model
         'title',
         'artist',
         'url',
+        'id_category',
     ];
 
     /**
