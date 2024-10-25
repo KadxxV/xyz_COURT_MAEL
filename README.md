@@ -1,3 +1,4 @@
+COURT MAËL
 # XYZ
 
 <img src="docs/screenshots/home.png" alt="Page d'accueil" />
