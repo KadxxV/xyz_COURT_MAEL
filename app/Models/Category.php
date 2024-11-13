@@ -26,4 +26,5 @@ class Category extends Model
             get: fn () => $this->exists ? $this->attributes['name'] : trans('categories.missing_category')
         );
     }
+
 }
